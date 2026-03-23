@@ -1,0 +1,10 @@
+# Ignore IDE Folder
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+
+# Generated file
+*.exe
+/.enkavcs
